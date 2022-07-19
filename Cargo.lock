@@ -6414,6 +6414,7 @@ dependencies = [
  "node",
  "num_cpus",
  "prometheus",
+ "rand 0.8.5",
  "rayon",
  "rocksdb",
  "serde 1.0.139",
